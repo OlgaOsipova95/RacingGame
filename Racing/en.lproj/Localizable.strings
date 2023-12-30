@@ -1,0 +1,42 @@
+/* 
+  Localizable.strings
+  Racing
+
+  Created by Olga on 29.11.2023.
+  
+*/
+
+startScreen.start_button = "Start";
+startScreen.settings_button = "Setting";
+startScreen.records_button = "Records";
+
+settingsScreen.placeholder_nameTextField = "Enter your name";
+settingsScreen.carColor = "Car color";
+settingsScreen.typeObstacle = "Obstacle";
+settingsScreen.level = "Level";
+settingsScreen.typeControl = "Control";
+
+action.cancel = "Cancel";
+
+settings.carColor.red = "Red";
+settings.carColor.green = "Green";
+settings.carColor.blue = "Blue";
+
+settings.typeObstacle.tree = "Tree";
+settings.typeObstacle.stone = "Stone";
+
+settings.level.light = "Light";
+settings.level.medium = "Medium";
+settings.level.hard = "Hard";
+
+settings.control.tap = "Tap";
+settings.control.swipe = "Swipe";
+settings.control.accelerometer = "Accelerometer";
+
+imagePicker.takePhoto = "Take photo";
+imagePicker.photoLibrary = "Photo library";
+
+endGame.title = "Game over";
+endGame.message = "Your score: %@";
+endGame.back = "Back";
+endGame.repeat = "Repeat";

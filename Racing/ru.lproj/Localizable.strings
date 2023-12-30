@@ -1,0 +1,42 @@
+/* 
+  Localizable.strings
+  Racing
+
+  Created by Olga on 29.11.2023.
+  
+*/
+
+startScreen.start_button = "Играть";
+startScreen.settings_button = "Настройки";
+startScreen.records_button = "Рекорд";
+
+settingsScreen.placeholder_nameTextField = "Введите имя";
+settingsScreen.carColor = "Цвет машины";
+settingsScreen.typeObstacle = "Препятствие";
+settingsScreen.level = "Сложность";
+settingsScreen.typeControl = "Управление";
+
+action.cancel = "Отмена";
+
+settings.carColor.red = "Красный";
+settings.carColor.green = "Зеленый";
+settings.carColor.blue = "Синий";
+
+settings.typeObstacle.tree = "Дерево";
+settings.typeObstacle.stone = "Камень";
+
+settings.level.light = "Легкий";
+settings.level.medium = "Средний";
+settings.level.hard = "Сложный";
+
+settings.control.tap = "Нажатие";
+settings.control.swipe = "Жест";
+settings.control.accelerometer = "Акселерометр";
+
+imagePicker.takePhoto = "Сделать фото";
+imagePicker.photoLibrary = "Галерея";
+
+endGame.title = "Игра окончена";
+endGame.message = "Ваш счет: %@";
+endGame.back = "Назад";
+endGame.repeat = "Повтор";
